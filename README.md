@@ -6,9 +6,9 @@
 
 ### About Me :
 
-I am a Computer Science studente at Bologna's Alma Mater Studiorum, Italy.
+I am a Computer Science student at Bologna's Alma Mater Studiorum, Italy.
 
-- 🔭 I'm working on gettin my degree, while expanding my resources as best i can.
+- 🔭 I'm working on getting my degree, while expanding my resources as best i can.
 - 📫 How to reach me: stephens0318@gmail.com
 
 ---
